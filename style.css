@@ -1,0 +1,13 @@
+body{
+    background-color: brown;
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vh;
+}
+/* nav{
+    display: flex;
+    justify-content: space-between;
+} */
+.cihuy h2{
+    color: aqua;
+}
